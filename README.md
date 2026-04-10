@@ -49,7 +49,7 @@ Mid-term exam 2026 additional tasks: [tasks](Materials/midterm_2026_test.pdf), [
 | 20.03.26 | 07 | Decision Trees for regression and classification. Feature importance.	| [Presentation](Materials/07-dt-feature-importance.pptx)<br> Videos: [1](https://player.vimeo.com/video/928466801?h=fabc6e4336&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [2](https://player.vimeo.com/video/928467452?h=54288e605f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [3](https://player.vimeo.com/video/928467877?h=1665aedb69&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [4](https://player.vimeo.com/video/928468224?h=1ec6545c1d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479) |
 | 27.03.26 | 08 | Mid-term exam.	|  |
 | 03.04.26 | -- | *Semester break. No classes.*	|  |
-| 10.04.26 | 09 | 	|  |
+| 10.04.26 | 09 | Bias-Variance Decomposition. Random Forest and Gradient Boosting.	| [Presentation](Materials/09-bvd-rf-gb.pptx) |
 | 17.04.26 | 10 | 	|  |
 | 24.04.26 | 11 | 	|  |
 | 01.05.26 | -- | *Public holiday. No classes.*	|  |
